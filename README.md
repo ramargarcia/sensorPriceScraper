@@ -1,5 +1,8 @@
 # sensorPriceScraper
 Collect item prices and ratings from a specific website.
+
+The script will run through different pages within the Sensors category. 
+
 https://www.sparkfun.com/categories/23?page=1  to page 6.
 
 
@@ -8,6 +11,7 @@ To run it just start the script
 ```
 python sensorPriceScraper.py
 ```
+Author: Ramon Martinez Garcia
 
 reference webs:
 
